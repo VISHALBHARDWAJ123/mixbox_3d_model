@@ -61,9 +61,9 @@ All primitives use this single material uniformly.
 
 *(Placeholder for renders – add images as needed)*
 
-- ![Mixbox Layout Bottom Render](path/to/bottom_render.png)
-- ![Mixbox Layout Top Render](path/to/top_render.png)
-- ![Mixbox Top Arc Sheet Render](path/to/arc_render.png)
+- ![Mixbox Layout Bottom Render]([path/to/bottom_render.png](https://github.com/VISHALBHARDWAJ123/mixbox_3d_model/blob/master/Assets/Bottom%20Layout.png))
+- ![Mixbox Layout Top Render](https://github.com/VISHALBHARDWAJ123/mixbox_3d_model/blob/master/Assets/Top%20Layout.png)
+- ![Mixbox Top Arc Sheet Render](https://github.com/VISHALBHARDWAJ123/mixbox_3d_model/blob/master/Assets/Top%20arc%20sheet.png)
 
 ## License
 
