@@ -57,9 +57,29 @@ All primitives use this single material uniformly.
 
 👉 All parts align in the XY plane and stack vertically: **Bottom (thick base) → Top Panel → Arc Sheet**.
 
+## Build Notes
+
+- These layouts are standard **Mixbox-style** layouts.
+- For right-hand-side movement key, simply flip the sheet after cuttings for a reversed Mixbox.
+- If you don't want to use **Cherry MX low-profile switches**, you can use standard **Cherry MX buttons** (your choice). However, note that the PCB is designed for low-profile switches.
+
+### Recommended Components
+
+- **Low Profile Keyswitch (Cherry MX Low Profile):**  
+  [Buy here](https://meckeys.com/shop/accessories/keyboard-accessories/key-switches/cherry-low-profile-mechanical-switch/?attribute_pa_cherry-mx=red)
+
+- **Standard Cherry MX Switches:**  
+  [Buy here](https://meckeys.com/shop/accessories/keyboard-accessories/key-switches/cherry-mx-clear-top/)
+
+- **Keycaps:**  
+  [Blank DSA 1U Keycaps (Grey)](https://meckeys.com/shop/accessories/keyboard-accessories/keycaps/blank-dsa-keycaps-1u/?attribute_pa_variations=grey)
+
+- **Standoffs and Screws:**  
+  [Hex Standoffs](https://www.amazon.in/Immech-Pillar-Standoff-Hexagonal-Spacing/dp/B08CBD38W1)  
+  [Matching Screws](https://amzn.in/d/87QF44h)
+
 ## Render Previews
 
-*(Placeholder for renders – add images as needed)*
 
 - ![Mixbox Layout Bottom Render](https://github.com/VISHALBHARDWAJ123/mixbox_3d_model/blob/master/Assets/Bottom%20Layout.png)
 - ![Mixbox Layout Top Render](https://github.com/VISHALBHARDWAJ123/mixbox_3d_model/blob/master/Assets/Top%20Layout.png)
