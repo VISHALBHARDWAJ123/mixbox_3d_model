@@ -61,7 +61,7 @@ All primitives use this single material uniformly.
 
 - These layouts are standard **Mixbox-style** layouts.
 - For right-hand-side movement key, simply flip the sheet after cuttings for a reversed Mixbox.
-- If you don't want to use **Cherry MX low-profile switches**, you can use standard **Cherry MX buttons** (your choice). However, note that the PCB is designed for low-profile switches.
+- If you don't want to use **Cherry MX low-profile switches**, you can use standard **Cherry MX buttons** (your choice).
 
 ### Recommended Components
 
