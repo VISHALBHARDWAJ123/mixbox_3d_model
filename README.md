@@ -19,11 +19,11 @@ This repository contains 3D models of parts for a modular controller (e.g., an a
 
 All parts share essentially the same XY footprint, with an approximate bounding box of **297 × 134 × H** mm. The exact dimensions are:
 
-| Filename                   | Dimensions (L × W × H)   | Meshes | Materials |
-|----------------------------|-------------------------|--------|-----------|
-| Mixbox Layout Bottom.gltf   | 296.9 × 133.8 × 8.0 mm  | 1      | 1         |
-| Mixbox Layout Top.gltf      | 296.9 × 133.8 × 1.0 mm  | 1      | 1         |
-| Mixbox Top Arc Sheet.gltf   | 296.9 × 133.8 × 1.0 mm  | 1      | 1         |
+| Filename                   | Dimensions (L × W × H)   |
+|----------------------------|-------------------------|
+| Mixbox Layout Bottom.gltf   | 296.9 × 133.8 × 8.0 mm  | 
+| Mixbox Layout Top.gltf      | 296.9 × 133.8 × 1.0 mm  | 
+| Mixbox Top Arc Sheet.gltf   | 296.9 × 133.8 × 1.0 mm  |
 
 ### Details
 
