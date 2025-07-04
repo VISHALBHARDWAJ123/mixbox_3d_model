@@ -74,7 +74,4 @@ All parts share essentially the same XY footprint, with an approximate bounding 
 - ![Mixbox Layout Top Render](https://github.com/VISHALBHARDWAJ123/mixbox_3d_model/blob/master/Assets/Top%20Layout.png)
 - ![Mixbox Top Arc Sheet Render](https://github.com/VISHALBHARDWAJ123/mixbox_3d_model/blob/master/Assets/Top%20arc%20sheet.png)
 
-## License
 
-> **⚠ No license information is provided.**  
-> Assume **all rights reserved** unless otherwise stated. Please verify the original source for proper usage permissions.
