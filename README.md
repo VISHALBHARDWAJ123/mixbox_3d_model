@@ -55,7 +55,7 @@ All primitives use this single material uniformly.
 - **Top Panel:** Sits above the bottom panel as the main cover or face; may include cutouts for controls.
 - **Arc Sheet:** Thin overlay that aligns with the bottom panel; could provide curvature or support beneath/above the top panel.
 
-👉 All parts align in the XY plane and stack vertically: **Bottom (thick base) → Arc Sheet → Top Panel**.
+👉 All parts align in the XY plane and stack vertically: **Bottom (thick base) → Top Panel → Arc Sheet**.
 
 ## Render Previews
 
