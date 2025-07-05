@@ -43,6 +43,7 @@ All parts share essentially the same XY footprint, with an approximate bounding 
 - **Bottom Panel:** Base of the enclosure, provides structural support (8 mm thick).
 - **Top Panel:** Sits above the bottom panel as the main cover or face; may include cutouts for controls.
 - **Arc Sheet:** Thin overlay that aligns with Top Panel; provides a support to use your artwork.
+- **Artwork:** The artwork file is in Assets folder. Please note change only background to your like.
 
 👉 All parts align in the XY plane and stack vertically: **Bottom (thick base) → Top Panel → Arc Sheet**.
 
@@ -73,5 +74,5 @@ All parts share essentially the same XY footprint, with an approximate bounding 
 - ![Mixbox Layout Bottom Render](https://github.com/VISHALBHARDWAJ123/mixbox_3d_model/blob/master/Assets/Bottom%20Layout.png)
 - ![Mixbox Layout Top Render](https://github.com/VISHALBHARDWAJ123/mixbox_3d_model/blob/master/Assets/Top%20Layout.png)
 - ![Mixbox Top Arc Sheet Render](https://github.com/VISHALBHARDWAJ123/mixbox_3d_model/blob/master/Assets/Top%20arc%20sheet.png)
-
+- ![Mixbox Artwork Render](https://github.com/VISHALBHARDWAJ123/mixbox_3d_model/blob/master/Assets/Top%20Drawing%20for%20artwork.png)
 
